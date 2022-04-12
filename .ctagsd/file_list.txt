@@ -1,0 +1,10 @@
+/home/andre/Documentos/Alura/Leilao/Avaliador.cpp
+/home/andre/Documentos/Alura/Leilao/Avaliador.hpp
+/home/andre/Documentos/Alura/Leilao/Lance.cpp
+/home/andre/Documentos/Alura/Leilao/Lance.hpp
+/home/andre/Documentos/Alura/Leilao/Leilao.cpp
+/home/andre/Documentos/Alura/Leilao/Leilao.hpp
+/home/andre/Documentos/Alura/Leilao/Usuario.cpp
+/home/andre/Documentos/Alura/Leilao/Usuario.hpp
+/home/andre/Documentos/Alura/Leilao/Leilao/tests/teste-avaliador.cpp
+/home/andre/Documentos/Alura/Leilao/Leilao/tests/catch.hpp
